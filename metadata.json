@@ -1,0 +1,5 @@
+{
+  "name": "MACU Beverage Ordering",
+  "description": "A web application that allows users to select beverages from a MACU menu, add them to a cart, and see the total order summary.",
+  "requestFramePermissions": []
+}
